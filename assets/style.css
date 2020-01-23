@@ -1,0 +1,30 @@
+body{
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/concrete_seamless.png");
+    background-color: #f1f1f1;
+}
+
+html{
+    position: relative;
+}
+
+.img-fluid {
+    height: 250px;
+
+    display: block;
+
+}
+
+.container{
+    background-color: white;
+    margin: 5% 5% 5% 5%;
+    padding: 3%;
+}
+
+.footer {
+    color:#d4d4d4;
+    background-color:#5c5b5b;
+    text-align: center;
+    padding: 25px 0px 15px 0px;
+    margin-top: 50px;
+    border-top: 5px #4aaaa5 solid;
+}
